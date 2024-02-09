@@ -1,0 +1,108 @@
+.login-container {
+    width: 300px;
+    margin: 10% auto;
+    padding: 20px;
+    height: 100%;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    /* background-color: #f9f9f9; */
+}
+body{
+    /* background-image: linear-gradient(red,blue); */
+    font-family: 'Poppins';
+}
+h2 {
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+.signup-link {
+    text-align: center;
+    text-decoration: none;
+    color: #007bff;
+    display: block;
+}
+
+.signup-link:hover {
+    text-decoration: underline;
+}
+.or{
+   color: #131313;
+   display: flex;
+   justify-content: center;
+}
+/* Register.css */
+.register-form {
+    text-align: center;
+    max-width: 300px;
+    margin:30% auto;
+    margin-top: 150px;
+  }
+  
+  .register-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .register-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .register-submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .register-or-text {
+    margin: 20px 0;
+  }
+  
+  .register-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  .hello-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .hello-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+
